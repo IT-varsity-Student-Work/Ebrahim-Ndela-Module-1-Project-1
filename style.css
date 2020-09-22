@@ -1,0 +1,10 @@
+th{
+    border-bottom-color: orangered;
+    background-color: powderblue;
+    font-family:helvetica;
+    
+}
+td{
+    border-bottom-color: mediumseagreen;
+    background-color: sandybrown;
+}
